@@ -3,18 +3,19 @@ import React, { Component } from 'react'
 import MyButton from '../utils/MyButton';
 import Zoom from 'react-reveal/Zoom';
 
-import energy_logo from '../../resources/images/logos/energy_logo.jpg';
-import spotify_logo from '../../resources/images/logos/spotify_logo.png';
-import teladoc_logo from '../../resources/images/logos/teladoc_logo.jpg';
+import paris_2024 from '../../resources/images/logos/paris_2024.png';
+import milano_2026 from '../../resources/images/logos/milano_2026.jpg';
+import LA_2028 from '../../resources/images/logos/LA_2028.png';
+//import brisbane_2032 from '../../resources/images/logos/brisbane_2032.jpg';
 
 class Pricing extends Component{
     state={
-        prices:[energy_logo,spotify_logo,teladoc_logo,teladoc_logo,teladoc_logo,teladoc_logo],
-        positions:['EnergyWatch','Spotify','TelaDoc', 'TelaDoc','TelaDoc','TelaDoc'],
+        prices:[paris_2024, milano_2026, LA_2028],
+        positions:['Paris','Milano Cortina','Los Angels'],
         desc:[
-            'Energy Sector', 'Music Sector', 'Health Sector', 'TelaDoc','TelaDoc','TelaDoc'
+            '2024 Summer Olympics', '2026 Winter Olympics', '2028 Summer Olympics'
         ],
-        linkto:['https://energywatch-inc.com/','https://www.spotify.com/us/','https://www.teladoc.com/','https://www.teladoc.com/','https://www.teladoc.com/','https://www.teladoc.com/'],
+        linkto:['https://olympics.com/ioc/paris-2024','https://olympics.com/ioc/milano-cortina-2026','https://la28.org/'],
         delay:[500,500,500,500,500,500]
 
     }
@@ -52,8 +53,8 @@ class Pricing extends Component{
         return(
             <div className = "bck_black">
                 <div className = "center_wrapper pricing_section">
-                    <h2>Beijing 2022 Schedule</h2>
-                    <p>Click a sport to learn more about when and where it takes place</p>
+                    <h2>Upcoming Games</h2>
+                    <p>Click to learn more about where it takes place</p>
                     <div className = "pricing_wrapper">
                         {this.showBoxes()}
                     </div>

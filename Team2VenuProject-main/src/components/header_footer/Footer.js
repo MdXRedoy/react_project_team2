@@ -25,10 +25,10 @@ const Footer = () => {
                 <div className="footer_copyright">JJAY TTP, Team 2. All rights reserved ©</div>
                 <div className="footer_copyright">
                     <ul style ={{listStyleType: "none"}}>
-                        <li>Team 2 Leaders : Syeda, Ege, Hilal </li>
-                        <li>All members : Robert, Christopher, Cenk,</li>
-                        <li>Humayun, Kirana, Blanco,</li>
-                        <li>Nanami, Chelsea, Michael, Gabriel</li>
+                        <li>Team 2 Leaders : Syeda Kazmi, Ege Kacmaz, Hilal Avci </li>
+                        <li>All members : Robert Quartey, Christopher Ortega, Cenk Cafer,</li>
+                        <li>Humayun Ahmed, Kirana Ali, Jeryel Blanco,</li>
+                        <li>Nanami Inaba, Md Redoy, Chelsea Alcinord, Michael C, Gabriel Tejada, Ankit Kafle</li>
 
                     </ul>
                 </div>
