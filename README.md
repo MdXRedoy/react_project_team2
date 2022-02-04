@@ -1,4 +1,4 @@
-# react_project_team2
+# Winter_Olympic_Site
 
 if you are have trouble running the server
 
