@@ -1,21 +1,29 @@
 # Team02_OlympicSite_Project
 
-Team Leader: Cenk Cafer
+Team Leader: Syeda, Ege, Hilal
 
 Members: 
-Olviia-Nikol Andriievska,
-Shirley Ni,
-Jason Orr,
-Jayzy Padilla, and 
-Simranjeet Singh
-
+Robert
+Christopher
+Ankit
+Kirana
+ Humayun
+ Jeryel
+ Md
+ Chelsea
+ Gabriel
+ Nanami
+ Michael
+ Cenk
 
 Features Included:
 
-Featured(Jayzy):
+Featured:
 - Picture Carrousel 
 - Index
 - TimeUntil
+- Social Media
+- Upcoming games
 
 
 
