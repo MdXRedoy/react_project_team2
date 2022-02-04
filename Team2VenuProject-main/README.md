@@ -3,18 +3,18 @@
 Team Leader: Syeda, Ege, Hilal
 
 Members: 
-Robert
-Christopher
-Ankit
-Kirana
- Humayun
- Jeryel
- Md
- Chelsea
- Gabriel
- Nanami
- Michael
- Cenk
+Robert,
+Christopher,
+Ankit,
+Kirana,
+ Humayun,
+ Jeryel,
+ Md,
+ Chelsea,
+ Gabriel,
+ Nanami,
+ Michael,
+ Cenk.
 
 Features Included:
 
